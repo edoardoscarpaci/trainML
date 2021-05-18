@@ -1,0 +1,1 @@
+training/Scripts/activate
